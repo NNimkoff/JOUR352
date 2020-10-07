@@ -1,10 +1,12 @@
+/* style for my resume */
+
 body {
   font-family: Open Sans, Arial, sans-serif;
   font-size: 1em;
   color: #808080;
   font-weight: 400;
 }
-
+/* my name */
 h1 {
   font-size: 3em;
   color: #33485e
@@ -12,7 +14,18 @@ h1 {
   text-align: center;
   text-transform: capitalize;
 }
+/* photo of me */
+img {
+  /* get rid of this bro */
+}
+/* title */
+strong {
+  text-transform: capitalize;
+  font-size: 1.5em;
+  color: #33485e
+}
 
-img for (int i = 0; i < 10; i++) {
-  //Console.WriteLine(i);
+/* Section titles */
+h2 {
+  
 }
