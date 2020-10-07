@@ -9,8 +9,7 @@ body {
 /* my name */
 h1 {
   font-size: 3em;
-  color: #33485e
-  text-transform:capitalize;
+  color: #33485e;
   text-align: center;
   text-transform: capitalize;
 }
@@ -22,10 +21,34 @@ img {
 strong {
   text-transform: capitalize;
   font-size: 1.5em;
-  color: #33485e
+  color: #33485e;
 }
 
 /* Section titles */
 h2 {
-
+  font-size: 1.5em;
+  text-transform: capitalize;
+  background-color: #33485e
+  color: white;
+  font-weight: 400;
+}
+/* Job Titles */
+h3 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+/* Organization */
+h4 {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+/* Job Dates */
+h5 {
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
+/* Lists */
+ul {
+  font-size: 1em;
 }
