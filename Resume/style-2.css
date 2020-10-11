@@ -8,11 +8,16 @@ body {
 }
 
 /* my name */
-h1 {
+#name{
   font-size: 3em;
   color: #33485e;
   text-align: center;
   text-transform: capitalize;
+}
+
+div {
+  border: 1px solid #33485e;
+  border-width: 60, 300px
 }
 
 /* photo of me */
@@ -28,7 +33,7 @@ strong {
 }
 
 /* Section titles */
-h2 {
+.sectionheader{
   font-size: 1.5em;
   text-transform: capitalize;
   background-color: #33485e;
@@ -37,19 +42,19 @@ h2 {
 }
 
 /* Job Titles */
-h3 {
+.jobtitle{
   font-weight: 600;
   font-size: 1.5em;
 }
 
 /* Organization */
-h4 {
+.Organization{
   font-weight: 400;
   font-size: 1.5em;
 }
 
 /* Job Dates */
-h5 {
+.date{
   font-weight: 400;
   font-size: 1em;
   font-style: italic;
