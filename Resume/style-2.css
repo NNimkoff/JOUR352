@@ -1,4 +1,61 @@
-#headline{
-  font-size: 18px;
-  color: blue;
+/* style for my resume */
+
+body {
+  font-family: Open Sans, Arial, sans-serif;
+  font-size: 1em;
+  color: #808080;
+  font-weight: 400;
+}
+
+/* my name */
+h1 {
+  font-size: 3em;
+  color: #33485e;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+/* photo of me */
+img {
+  /* src="IMG_6468.jpg" width="300px" */
+}
+
+/* title */
+strong {
+  text-transform: capitalize;
+  font-size: 1.5em;
+  color: #33485e;
+}
+
+/* Section titles */
+h2 {
+  font-size: 1.5em;
+  text-transform: capitalize;
+  background-color: #33485e;
+  color: #FFFFFF;
+  font-weight: 400;
+}
+
+/* Job Titles */
+h3 {
+  font-weight: 600;
+  font-size: 1.5em;
+}
+
+/* Organization */
+h4 {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+/* Job Dates */
+h5 {
+  font-weight: 400;
+  font-size: 1em;
+  font-style: italic;
+}
+
+/* Lists */
+ul {
+  font-size: 1em;
 }
