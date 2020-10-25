@@ -8,11 +8,11 @@ body {
 }
 
 /* my name */
-#name{
+#name h1{
   font-size: 3em;
   color: #33485e;
   text-align: center;
-  text-transform: capitalize;
+  text-transform: uppercase;
   border-bottom: 1px solid #33485e;
   width: 60%;
   min-width: 300px;
@@ -20,14 +20,9 @@ body {
 }
 /* you don't need to sepearate these two */
 
-/* photo of me */
-img {
-  /* src="IMG_6468.jpg" width="300px" */
-}
-
 /* title */
-strong {
-  text-transform: capitalize;
+#title {
+  text-transform: uppercase;
   font-size: 1.5em;
   color: #33485e;
 }
@@ -46,13 +41,13 @@ strong {
 /* just use width when she asks for width */
 
 /* Job Titles */
-#jobtitle{
+.jobtitle{
   font-weight: 600;
   font-size: 1.5em;
 }
 
 /* Organization */
-.Organization{
+.organization{
   font-weight: 400;
   font-size: 1.25em;
 }
@@ -78,7 +73,12 @@ ul {
 
 .menu{
   margin: 0px;
+  padding: 0px;
   text-align: center;
+  list-style-type: none;
+}
+
+.menu li{
   display: inline;
 }
 
