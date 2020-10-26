@@ -1,7 +1,6 @@
 #content {
   margin: 0 auto;
   width: 900px;
-
 }
 
 .center {
@@ -21,7 +20,9 @@ p {
 }
 
 h1 {
-
+  font-size: 3em;
+  text-align: center;
+  font-style: italic;
 }
 
 blockquote {
@@ -29,8 +30,29 @@ blockquote {
   font-style: oblique;
   margin-top: 15px;
   margin-bottom: 15px;
-  color: green;
+  color: blue;
   margin-left: 50px;
   padding-left: 15px;
   border-left: 4px solid #ccc;
+}
+
+#date {
+  padding-left: 200px;
+}
+
+#byline {
+  padding-left: 200px;
+}
+
+a {
+  padding: 200px;
+}
+
+img {
+  padding-bottom: 50px;
+}
+
+.more {
+  padding-left: 180px;
+  font-size: 1.25em;
 }
