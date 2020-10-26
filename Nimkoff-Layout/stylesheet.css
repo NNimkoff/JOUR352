@@ -1,10 +1,36 @@
-#content{
+#content {
   margin: 0 auto;
   width: 900px;
+
 }
 
-.center{
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+p {
+  font-family: "Times New Roman", times,  arial, serif;
+}
+
+h1 {
+
+}
+
+blockquote {
+  font: 16px/24px "courier new", sans-serif;
+  font-style: oblique;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: green;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
 }
