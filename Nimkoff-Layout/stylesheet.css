@@ -1,0 +1,60 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+p {
+  font-family: "Times New Roman", times,  arial, serif;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  font-style: italic;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+blockquote {
+  font: 16px/24px "courier new", sans-serif;
+  font-style: oblique;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  color: blue;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 4px solid #ccc;
+}
+
+#date {
+  padding-left: 200px;
+}
+
+#byline {
+  padding-left: 200px;
+}
+
+a {
+  padding: 200px;
+}
+
+img {
+  padding-bottom: 50px;
+}
+
+.more {
+  padding-left: 180px;
+  font-size: 1.25em;
+}
