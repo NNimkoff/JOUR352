@@ -88,3 +88,7 @@ h3{
 .video{
   height: 30%;
 }
+
+.navbar-nav.mr-auto{
+  color: white;
+}
