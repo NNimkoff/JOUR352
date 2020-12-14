@@ -1,0 +1,94 @@
+.story{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.byline{
+  margin-left: 150px;
+}
+
+.dateline{
+  margin-left: 150px;
+}
+
+.headphoto{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 52%;
+  max-height: 50%;
+}
+
+h1{
+  text-align: center;
+}
+
+.banner{
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+blockquote{
+  font-family: "Open Sans Condensed", cursive;
+  color: #D63C3C;
+  font-size: 24pt;
+}
+
+.image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.batman{
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer{
+  margin-left: 125px;
+  margin-right: 125px;
+  margin-bottom: 50px;
+  font-family: sans-serif;
+  background-color: Black;
+  color: white;
+}
+
+.caption{
+  color: #787070;
+  font-size: 12pt;
+  display: block;
+  text-align: center;
+}
+
+.story{
+  font-size: 14pt;
+  font-family: sans-serif;
+}
+
+.chart{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2{
+  font-weight: bold;
+}
+
+h3{
+  font-weight: bold;
+}
+
+.video{
+  height: 30%;
+}
+
+.navbar-nav.mr-auto{
+  color: white;
+}
